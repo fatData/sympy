@@ -19,9 +19,9 @@ http://sympy.org/
 
 See the AUTHORS file for the list of authors.
 
-And many more people helped on the SymPy mailing list, reported bugs, helped
-organize SymPy's participation in the Google Summer of Code, the Google Highly
-Open Participation Contest, Google Code-In, wrote and blogged about SymPy...
+Many more also helped with the SymPy mailing list, reporting bugs, 
+organize SymPy's participation in the Google Summer of Code, Google Highly
+Open Participation Contest, Google Code-In and also wrote and blogged about SymPy...
 
 License: New BSD License (see the LICENSE file for details) covers all files
 in the sympy repository unless stated otherwise.
@@ -163,8 +163,8 @@ with::
 
     $ git reset --hard
 
-WARNING: The above commands will all clear changes you may have made, and you
-will lose them forever. Be sure to check things with ``git status``, ``git
+WARNING: The above commands will clear all changes you may have made, therefore
+losing them forever. Be sure to check things with ``git status``, ``git
 diff``, ``git clean -Xn`` and ``git clean -n`` before doing any of those.
 
 Bugs
@@ -185,9 +185,9 @@ Fabian Pedregosa joined the project and helped fixed many things, contributed
 documentation and made it alive again. 5 students (Mateusz Paprocki, Brian
 Jorgensen, Jason Gedge, Robert Schwarz and Chris Wu) improved SymPy incredibly
 during the summer 2007 as part of the Google Summer of Code. Pearu Peterson
-joined the development during the summer 2007 and he has made SymPy much more
-competitive by rewriting the core from scratch, that has made it from 10x to
-100x faster. Jurjen N.E. Bos has contributed pretty printing and other patches.
+joined the development during the summer 2007 and made SymPy more competitive
+by rewriting the core from scratch, making it go from 10x to 100x faster.
+Jurjen N.E. Bos has contributed pretty printing and other patches.
 Fredrik Johansson has written mpmath and contributed a lot of patches.
 
 SymPy has participated in every Google Summer of Code since 2007. You can see
@@ -200,13 +200,13 @@ also started as a Google Summer of Code student, taking his place. Ondřej
 Čertík is still active in the community, but is too busy with work and family
 to play a lead development role.
 
-Since then, a lot more people have joined the development and some people have
+Since then, many more people have joined the development and a few have
 also left. You can see the full list in doc/src/aboutus.rst, or online at:
 
 http://docs.sympy.org/dev/aboutus.html#sympy-development-team
 
 The git history goes back to 2007, when development moved from svn to hg.  To
-see the history before that point, look at http://github.com/sympy/sympy-old.
+see history before that point, look at http://github.com/sympy/sympy-old.
 
 You can use git to see the biggest developers.  The command::
 
@@ -251,10 +251,10 @@ A BibTeX entry for LaTeX users is
      doi = {10.7717/peerj-cs.103}
     }
 
-SymPy is BSD licensed, so you are free to use it whatever you like, be it
-academic, commercial, creating forks or derivatives, as long as you copy the
-BSD statement if you redistribute it (see the LICENSE file for details).  That
-said, although not required by the SymPy license, if it is convenient for you,
+SymPy is BSD licensed, so you are free to use it for any purpose, be it
+academic, commercial, creating forks or derivatives. As long as you copy the
+BSD statement when redistributing it (see the LICENSE file for details).
+Although not required by the SymPy license, if it is convenient for you,
 please cite SymPy when using it in your work and also consider contributing
-all your changes back, so that we can incorporate it and all of us will
+all your changes back, so that we can incorporate it and all of us can
 benefit in the end.
